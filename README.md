@@ -13,12 +13,12 @@
 > Desenvolvo sistemas que resolvem problemas de gestão, do banco de dados à tela de quem usa.
 
 ```txt
-2024  →  Desenvolvedor back-end Jr. na NGB Company Software (PHP e Laravel, remoto)
-         Módulo financeiro do NGB Prime, ERP web em produção
-2025  →  Suporte N2/N3 de sistemas corporativos no SEBRAE Goiás (TOTVS RM, Fluig)
-2026  →  Kamel Controle Financeiro no ar: Laravel, React, PostgreSQL, Docker e CI
-         TCC sobre qualidade e segurança de código gerado por IA
-2027  →  Conclusão do Bacharelado em Sistemas de Informação (UniAlfa)
+2024 → Back-end Jr. na NGB Company Software
+       PHP e Laravel, módulo financeiro do ERP NGB Prime
+2025 → Suporte N2/N3 no SEBRAE Goiás (TOTVS RM, Fluig)
+2026 → Kamel Controle Financeiro no ar
+       TCC sobre código gerado por IA
+2027 → Sistemas de Informação na UniAlfa (conclusão)
 ```
 
 ```txt
