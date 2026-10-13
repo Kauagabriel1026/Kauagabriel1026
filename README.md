@@ -63,6 +63,11 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kauagabriel1026&theme=tokyonight&hide_border=true&background=0d1117&locale=pt_BR" alt="Sequência de contribuições" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kauagabriel1026/Kauagabriel1026/output/cobrinha-escura.svg" />
+  <img src="https://raw.githubusercontent.com/Kauagabriel1026/Kauagabriel1026/output/cobrinha.svg" alt="Cobrinha percorrendo o gráfico de contribuições" />
+</picture>
+
 <img src="https://komarev.com/ghpvc/?username=Kauagabriel1026&label=VISITAS&color=1a73e8&style=flat" alt="Visitas ao perfil" />
 
 </div>
