@@ -1,26 +1,68 @@
-# Kauã Gabriel Ricardo Ribeiro
+<div align="center">
 
-Desenvolvedor Full Stack Jr. em Goiânia – GO. Trabalho com back-end PHP desde 2024 e estudo Sistemas de Informação na UniAlfa.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=1A73E8&center=true&vCenter=true&width=640&lines=Kau%C3%A3+Gabriel+Ricardo+Ribeiro;Desenvolvedor+Full+Stack+Jr.;PHP+%C2%B7+Laravel+%C2%B7+React+%C2%B7+PostgreSQL" alt="Kauã Gabriel, desenvolvedor Full Stack Jr." />
 
-## O que eu faço
+<a href="https://www.linkedin.com/in/kaua-gabriel-ricardo-ribeiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://kamel-controle-financeiro.vercel.app"><img src="https://img.shields.io/badge/Kamel-no%20ar-1A73E8?style=for-the-badge&logo=vercel&logoColor=white" alt="Kamel no ar" /></a>
+<a href="mailto:kauagabrielricardoribeiro84@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
-- Desenvolvo o back-end do módulo financeiro do **NGB Prime**, um ERP web em produção (financeiro, estoque, notas fiscais), na NGB Company Software.
-- Já atuei em suporte N2/N3 de sistemas corporativos (TOTVS RM, Fluig) e em infraestrutura, então entendo o caminho do código até o usuário final.
-- No TCC, avalio a qualidade e a segurança de código Python (FastAPI) gerado por LLMs, usando OWASP Top 10, CWE Top 25, pytest, Bandit e Semgrep.
+</div>
 
-## Tecnologias
+## 🧭 Trajetória
 
-- **Back-end:** PHP (Laravel), Python, SQL (MySQL, SQL Server, PostgreSQL)
-- **Front-end:** JavaScript, HTML, CSS, React, Next.js
-- **Ferramentas:** Git, Docker, Linux, GitHub Actions
+> Desenvolvo sistemas que resolvem problemas de gestão, do banco de dados à tela de quem usa.
 
-## Projetos
+```txt
+2024  →  Desenvolvedor back-end Jr. na NGB Company Software (PHP e Laravel, remoto)
+         Módulo financeiro do NGB Prime, ERP web em produção
+2025  →  Suporte N2/N3 de sistemas corporativos no SEBRAE Goiás (TOTVS RM, Fluig)
+2026  →  Kamel Controle Financeiro no ar: Laravel, React, PostgreSQL, Docker e CI
+         TCC sobre qualidade e segurança de código gerado por IA
+2027  →  Conclusão do Bacharelado em Sistemas de Informação (UniAlfa)
+```
 
-- **[Kamel Controle Financeiro](https://github.com/Kauagabriel1026/kamel-controle-financeiro)** — contas a pagar e a receber com fluxo de caixa, em Laravel, React e PostgreSQL, com Docker, testes automatizados e CI. No ar em [kamel-controle-financeiro.vercel.app](https://kamel-controle-financeiro.vercel.app), com demonstração sem cadastro.
-- **[barberia](https://github.com/Kauagabriel1026/barberia)** — sistema de agendamento para barbearia em PHP (MVC), com painel administrativo, API REST e SQLite.
-- **[NUPENCABANK](https://github.com/Kauagabriel1026/NUPENCABANK)** — banco digital fictício em JavaScript com Firebase (Auth e Firestore) e assistente de IA.
+```txt
+📍 Goiânia – GO
+```
 
-## Contato
+## 🛠️ Tecnologias
 
-- LinkedIn: [linkedin.com/in/kaua-gabriel-ricardo-ribeiro](https://www.linkedin.com/in/kaua-gabriel-ricardo-ribeiro/)
-- E-mail: kauagabrielricardoribeiro84@gmail.com
+**Back-end e banco de dados**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,postgres,mysql" alt="PHP, Laravel, Python, FastAPI, PostgreSQL, MySQL" />
+
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,vite,html,css" alt="JavaScript, React, Next.js, Vite, HTML, CSS" />
+
+**Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode" alt="Git, GitHub, GitHub Actions, Docker, Linux, VS Code" />
+
+## 🚀 Projetos em destaque
+
+| Projeto | O que é | Tecnologias |
+| --- | --- | --- |
+| 🐼 [Kamel Controle Financeiro](https://kamel-controle-financeiro.vercel.app) | Contas a pagar e a receber com fluxo de caixa, perfil, tema escuro e demonstração sem cadastro. No ar. | `Laravel` `React` `PostgreSQL` `Docker` `GitHub Actions` |
+| 💈 [barberia](https://github.com/Kauagabriel1026/barberia) | Agendamento online para barbearia, com painel administrativo e API REST. | `PHP` `SQLite` `JavaScript` |
+| 🏦 [NUPENCABANK](https://github.com/Kauagabriel1026/NUPENCABANK) | Banco digital fictício com Pix simulado, cofrinho e assistente de IA. | `JavaScript` `Firebase` |
+
+## 🔒 Trabalho profissional
+
+| Sistema | Minha parte |
+| --- | --- |
+| 🧾 NGB Prime (ERP web) | Back-end do módulo financeiro: regras de negócio, contas a pagar e a receber, integração com o banco de dados |
+| 🖥️ Suporte corporativo | Atendimento N2/N3 de sistemas corporativos, diagnóstico de falhas e apoio à infraestrutura |
+
+## 📊 GitHub em números
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kauagabriel1026&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=pt-br" alt="Estatísticas do GitHub" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauagabriel1026&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=pt-br" alt="Linguagens mais usadas" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kauagabriel1026&theme=tokyonight&hide_border=true&background=0d1117&locale=pt_BR" alt="Sequência de contribuições" />
+
+<img src="https://komarev.com/ghpvc/?username=Kauagabriel1026&label=VISITAS&color=1a73e8&style=flat" alt="Visitas ao perfil" />
+
+</div>
